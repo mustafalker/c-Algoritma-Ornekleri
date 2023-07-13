@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\AlgoritmaSoruları\\AlgoritmaSoruları\\AlgoritmaSoruları.csproj",
+      "projectUniqueName": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\c-Algoritma-Ornekleri\\AlgoritmaSoruları\\AlgoritmaSoruları.csproj",
       "projectName": "AlgoritmaSoruları",
-      "projectPath": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\AlgoritmaSoruları\\AlgoritmaSoruları\\AlgoritmaSoruları.csproj",
+      "projectPath": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\c-Algoritma-Ornekleri\\AlgoritmaSoruları\\AlgoritmaSoruları.csproj",
       "packagesPath": "C:\\Users\\ulker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\AlgoritmaSoruları\\AlgoritmaSoruları\\obj\\",
+      "outputPath": "C:\\Users\\ulker\\OneDrive\\Masaüstü\\Mustafa\\Business\\Vusial Studio\\c-Algoritma-Ornekleri\\AlgoritmaSoruları\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
